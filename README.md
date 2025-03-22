@@ -6,6 +6,18 @@
 - **[Seungmin Cho](https://github.com/ojnim)**
 - **[Alison Ramirez](https://github.com/AliRH02)**
 
+### **👥 Team Members**
+
+| Name | GitHub Handle | Contribution |
+| ----- | ----- | ----- |
+| Tiffany Nguyen| [@Tiffany Nguyen](https://github.com/p1nkuu) |  |
+|Tia Zheng| [@Tia Zheng](https://github.com/tiaz26)|  |
+| Seungnim Cho| [@Seungmin Cho](https://github.com/ojnim) |  |
+| Alison Ramirez| [@Alison Ramirez](https://github.com/AliRH02)|Preprocessing, EDA, Modeling, and Optimization for target Sex_F |
+
+---
+
+
 ## Project Overview
 The **WiDs Datathon Global Challenge** Kaggle competition is an opportunity for BreakThrough Tech AI student fellows to apply and enhance their data science skills while working on an impactful and important problem. The BreakThrough Tech AI Program provides students with a strong foundation in machine learning, equipping them with the skills needed to tackle real-world challenges like the one presented in this competition.
 ### Goal of the Challenge 
